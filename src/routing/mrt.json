@@ -1,0 +1,951 @@
+{
+  "stations": {
+    "dhoby_ghaut": {
+      "name": "Dhoby Ghaut",
+      "lat": 1.298593,
+      "lng": 103.845909
+    },
+    "bras_basah": {
+      "name": "Bras Basah",
+      "lat": 1.296931,
+      "lng": 103.850631
+    },
+    "esplanade": {
+      "name": "Esplanade",
+      "lat": 1.293436,
+      "lng": 103.855381
+    },
+    "promenade": {
+      "name": "Promenade",
+      "lat": 1.29313,
+      "lng": 103.861064
+    },
+    "nicoll_highway": {
+      "name": "Nicoll Highway",
+      "lat": 1.299697,
+      "lng": 103.863611
+    },
+    "stadium": {
+      "name": "Stadium",
+      "lat": 1.302856,
+      "lng": 103.875306
+    },
+    "mountbatten": {
+      "name": "Mountbatten",
+      "lat": 1.306306,
+      "lng": 103.882531
+    },
+    "dakota": {
+      "name": "Dakota",
+      "lat": 1.308289,
+      "lng": 103.888253
+    },
+    "paya_lebar": {
+      "name": "Paya Lebar",
+      "lat": 1.318089,
+      "lng": 103.892982
+    },
+    "macpherson": {
+      "name": "MacPherson",
+      "lat": 1.32665,
+      "lng": 103.890019
+    },
+    "tai_seng": {
+      "name": "Tai Seng",
+      "lat": 1.335833,
+      "lng": 103.887942
+    },
+    "bartley": {
+      "name": "Bartley",
+      "lat": 1.34261,
+      "lng": 103.87997
+    },
+    "serangoon": {
+      "name": "Serangoon",
+      "lat": 1.349216,
+      "lng": 103.873443
+    },
+    "lorong_chuan": {
+      "name": "Lorong Chuan",
+      "lat": 1.35202,
+      "lng": 103.86353
+    },
+    "bishan": {
+      "name": "Bishan",
+      "lat": 1.350772,
+      "lng": 103.848183
+    },
+    "marymount": {
+      "name": "Marymount",
+      "lat": 1.349078,
+      "lng": 103.839492
+    },
+    "caldecott": {
+      "name": "Caldecott",
+      "lat": 1.337761,
+      "lng": 103.839447
+    },
+    "botanic_gardens": {
+      "name": "Botanic Gardens",
+      "lat": 1.322519,
+      "lng": 103.815406
+    },
+    "farrer_road": {
+      "name": "Farrer Road",
+      "lat": 1.317319,
+      "lng": 103.807431
+    },
+    "holland_village": {
+      "name": "Holland Village",
+      "lat": 1.312078,
+      "lng": 103.796208
+    },
+    "buona_vista": {
+      "name": "Buona Vista",
+      "lat": 1.307412,
+      "lng": 103.789696
+    },
+    "one_north": {
+      "name": "One-North",
+      "lat": 1.299331,
+      "lng": 103.787067
+    },
+    "kent_ridge": {
+      "name": "Kent Ridge",
+      "lat": 1.293383,
+      "lng": 103.784394
+    },
+    "haw_par_villa": {
+      "name": "Haw Par Villa",
+      "lat": 1.282386,
+      "lng": 103.781867
+    },
+    "pasir_panjang": {
+      "name": "Pasir Panjang",
+      "lat": 1.276167,
+      "lng": 103.791358
+    },
+    "labrador_park": {
+      "name": "Labrador Park",
+      "lat": 1.272267,
+      "lng": 103.802908
+    },
+    "telok_blangah": {
+      "name": "Telok Blangah",
+      "lat": 1.270572,
+      "lng": 103.809678
+    },
+    "harbourfront": {
+      "name": "HarbourFront",
+      "lat": 1.265319,
+      "lng": 103.820571
+    },
+    "bayfront": {
+      "name": "Bayfront",
+      "lat": 1.282347,
+      "lng": 103.859317
+    },
+    "marina_bay": {
+      "name": "Marina Bay",
+      "lat": 1.2761,
+      "lng": 103.85467
+    },
+    "bukit_panjang": {
+      "name": "Bukit Panjang",
+      "lat": 1.378112,
+      "lng": 103.763603
+    },
+    "cashew": {
+      "name": "Cashew",
+      "lat": 1.3690692,
+      "lng": 103.7649057
+    },
+    "hillview": {
+      "name": "Hillview",
+      "lat": 1.3623647,
+      "lng": 103.7673939
+    },
+    "beauty_world": {
+      "name": "Beauty World",
+      "lat": 1.3411261,
+      "lng": 103.7756686
+    },
+    "king_albert_park": {
+      "name": "King Albert Park",
+      "lat": 1.335419,
+      "lng": 103.7837309
+    },
+    "sixth_avenue": {
+      "name": "Sixth Avenue",
+      "lat": 1.3307406,
+      "lng": 103.7969081
+    },
+    "tan_kah_kee": {
+      "name": "Tan Kah Kee",
+      "lat": 1.3258941,
+      "lng": 103.8073322
+    },
+    "stevens": {
+      "name": "Stevens",
+      "lat": 1.3195961,
+      "lng": 103.8253633
+    },
+    "newton": {
+      "name": "Newton",
+      "lat": 1.312482,
+      "lng": 103.837926
+    },
+    "little_india": {
+      "name": "Little India",
+      "lat": 1.307231,
+      "lng": 103.849823
+    },
+    "rochor": {
+      "name": "Rochor",
+      "lat": 1.3040155,
+      "lng": 103.8525397
+    },
+    "bugis": {
+      "name": "Bugis",
+      "lat": 1.300693,
+      "lng": 103.856239
+    },
+    "downtown": {
+      "name": "Downtown",
+      "lat": 1.279199989350664,
+      "lng": 103.8523875315965
+    },
+    "telok_ayer": {
+      "name": "Telok Ayer",
+      "lat": 1.28206828111023,
+      "lng": 103.8486484476058
+    },
+    "chinatown": {
+      "name": "Chinatown",
+      "lat": 1.28444,
+      "lng": 103.843376
+    },
+    "pasir_ris": {
+      "name": "Pasir Ris",
+      "lat": 1.372518,
+      "lng": 103.949516
+    },
+    "tampines": {
+      "name": "Tampines",
+      "lat": 1.353092,
+      "lng": 103.945229
+    },
+    "simei": {
+      "name": "Simei",
+      "lat": 1.343184,
+      "lng": 103.953352
+    },
+    "tanah_merah": {
+      "name": "Tanah Merah",
+      "lat": 1.327257,
+      "lng": 103.946579
+    },
+    "bedok": {
+      "name": "Bedok",
+      "lat": 1.324038,
+      "lng": 103.930036
+    },
+    "kembangan": {
+      "name": "Kembangan",
+      "lat": 1.320982,
+      "lng": 103.912842
+    },
+    "eunos": {
+      "name": "Eunos",
+      "lat": 1.319724,
+      "lng": 103.903107
+    },
+    "aljunied": {
+      "name": "Aljunied",
+      "lat": 1.316441,
+      "lng": 103.88298
+    },
+    "kallang": {
+      "name": "Kallang",
+      "lat": 1.311469,
+      "lng": 103.871399
+    },
+    "lavender": {
+      "name": "Lavender",
+      "lat": 1.307167,
+      "lng": 103.863007
+    },
+    "city_hall": {
+      "name": "City Hall",
+      "lat": 1.29324,
+      "lng": 103.852219
+    },
+    "raffles_place": {
+      "name": "Raffles Place",
+      "lat": 1.283931,
+      "lng": 103.851461
+    },
+    "tanjong_pagar": {
+      "name": "Tanjong Pagar",
+      "lat": 1.27644,
+      "lng": 103.845711
+    },
+    "outram_park": {
+      "name": "Outram Park",
+      "lat": 1.281321,
+      "lng": 103.83897
+    },
+    "tiong_bahru": {
+      "name": "Tiong Bahru",
+      "lat": 1.286081,
+      "lng": 103.826958
+    },
+    "redhill": {
+      "name": "Redhill",
+      "lat": 1.289732,
+      "lng": 103.81675
+    },
+    "queenstown": {
+      "name": "Queenstown",
+      "lat": 1.294443,
+      "lng": 103.806114
+    },
+    "commonwealth": {
+      "name": "Commonwealth",
+      "lat": 1.302559,
+      "lng": 103.798225
+    },
+    "dover": {
+      "name": "Dover",
+      "lat": 1.311314,
+      "lng": 103.778658
+    },
+    "clementi": {
+      "name": "Clementi",
+      "lat": 1.315302,
+      "lng": 103.765244
+    },
+    "jurong_east": {
+      "name": "Jurong East",
+      "lat": 1.334308,
+      "lng": 103.741958
+    },
+    "chinese_garden": {
+      "name": "Chinese Garden",
+      "lat": 1.342376,
+      "lng": 103.732581
+    },
+    "lakeside": {
+      "name": "Lakeside",
+      "lat": 1.344237,
+      "lng": 103.720725
+    },
+    "boon_lay": {
+      "name": "Boon Lay",
+      "lat": 1.33884,
+      "lng": 103.705546
+    },
+    "pioneer": {
+      "name": "Pioneer",
+      "lat": 1.33737,
+      "lng": 103.69709
+    },
+    "joo_koon": {
+      "name": "Joo Koon",
+      "lat": 1.32774,
+      "lng": 103.67849
+    },
+    "expo": {
+      "name": "Expo",
+      "lat": 1.334632,
+      "lng": 103.961381
+    },
+    "changi_airport": {
+      "name": "Changi Airport",
+      "lat": 1.357371,
+      "lng": 103.988836
+    },
+    "bukit_batok": {
+      "name": "Bukit Batok",
+      "lat": 1.348796,
+      "lng": 103.749428
+    },
+    "bukit_gombak": {
+      "name": "Bukit Gombak",
+      "lat": 1.358863,
+      "lng": 103.751839
+    },
+    "choa_chu_kang": {
+      "name": "Choa Chu Kang",
+      "lat": 1.385482,
+      "lng": 103.74424
+    },
+    "yew_tee": {
+      "name": "Yew Tee",
+      "lat": 1.397567,
+      "lng": 103.747339
+    },
+    "kranji": {
+      "name": "Kranji",
+      "lat": 1.425048,
+      "lng": 103.761852
+    },
+    "marsiling": {
+      "name": "Marsiling",
+      "lat": 1.432544,
+      "lng": 103.774073
+    },
+    "woodlands": {
+      "name": "Woodlands",
+      "lat": 1.437094,
+      "lng": 103.786484
+    },
+    "admiralty": {
+      "name": "Admiralty",
+      "lat": 1.44069,
+      "lng": 103.800934
+    },
+    "sembawang": {
+      "name": "Sembawang",
+      "lat": 1.449025,
+      "lng": 103.820152
+    },
+    "yishun": {
+      "name": "Yishun",
+      "lat": 1.429463,
+      "lng": 103.835182
+    },
+    "khatib": {
+      "name": "Khatib",
+      "lat": 1.417366,
+      "lng": 103.832945
+    },
+    "yio_chu_kang": {
+      "name": "Yio Chu Kang",
+      "lat": 1.381905,
+      "lng": 103.844818
+    },
+    "ang_mo_kio": {
+      "name": "Ang Mo Kio",
+      "lat": 1.370016,
+      "lng": 103.849449
+    },
+    "braddell": {
+      "name": "Braddell",
+      "lat": 1.340293,
+      "lng": 103.845244
+    },
+    "toa_payoh": {
+      "name": "Toa Payoh",
+      "lat": 1.332702,
+      "lng": 103.847809
+    },
+    "novena": {
+      "name": "Novena",
+      "lat": 1.320053,
+      "lng": 103.843844
+    },
+    "orchard": {
+      "name": "Orchard",
+      "lat": 1.304292,
+      "lng": 103.832494
+    },
+    "somerset": {
+      "name": "Somerset",
+      "lat": 1.30015,
+      "lng": 103.838501
+    },
+    "marina_south_pier": {
+      "name": "Marina South Pier",
+      "lat": 1.2717639,
+      "lng": 103.8634248
+    },
+    "clarke_quay": {
+      "name": "Clarke Quay",
+      "lat": 1.288477,
+      "lng": 103.846756
+    },
+    "farrer_park": {
+      "name": "Farrer Park",
+      "lat": 1.312426,
+      "lng": 103.854317
+    },
+    "boon_keng": {
+      "name": "Boon Keng",
+      "lat": 1.319582,
+      "lng": 103.861938
+    },
+    "potong_pasir": {
+      "name": "Potong Pasir",
+      "lat": 1.331355,
+      "lng": 103.869278
+    },
+    "woodleigh": {
+      "name": "Woodleigh",
+      "lat": 1.33935,
+      "lng": 103.87079
+    },
+    "kovan": {
+      "name": "Kovan",
+      "lat": 1.360499,
+      "lng": 103.885169
+    },
+    "hougang": {
+      "name": "Hougang",
+      "lat": 1.370927,
+      "lng": 103.892448
+    },
+    "buangkok": {
+      "name": "Buangkok",
+      "lat": 1.382431,
+      "lng": 103.892747
+    },
+    "sengkang": {
+      "name": "Sengkang",
+      "lat": 1.391254,
+      "lng": 103.89537
+    },
+    "punggol": {
+      "name": "Punggol",
+      "lat": 1.404705,
+      "lng": 103.902222
+    },
+    "south_view": {
+      "name": "South View",
+      "lat": 1.380286,
+      "lng": 103.745203
+    },
+    "keat_hong": {
+      "name": "Keat Hong",
+      "lat": 1.378686,
+      "lng": 103.748947
+    },
+    "teck_whye": {
+      "name": "Teck Whye",
+      "lat": 1.376823,
+      "lng": 103.752907
+    },
+    "phoenix": {
+      "name": "Phoenix",
+      "lat": 1.378468,
+      "lng": 103.757622
+    },
+    "petir": {
+      "name": "Petir",
+      "lat": 1.377288,
+      "lng": 103.76739
+    },
+    "pending": {
+      "name": "Pending",
+      "lat": 1.376264,
+      "lng": 103.771294
+    },
+    "bangkit": {
+      "name": "Bangkit",
+      "lat": 1.380382,
+      "lng": 103.772636
+    },
+    "fajar": {
+      "name": "Fajar",
+      "lat": 1.384729,
+      "lng": 103.77108
+    },
+    "segar": {
+      "name": "Segar",
+      "lat": 1.387481,
+      "lng": 103.770184
+    },
+    "jelapang": {
+      "name": "Jelapang",
+      "lat": 1.386814,
+      "lng": 103.764671
+    },
+    "senja": {
+      "name": "Senja",
+      "lat": 1.383206,
+      "lng": 103.762161
+    },
+    "ten_mile_junction": {
+      "name": "Ten Mile Junction",
+      "lat": 1.380334791461705,
+      "lng": 103.7601302566202
+    },
+    "cove": {
+      "name": "Cove",
+      "lat": 1.399298,
+      "lng": 103.906342
+    },
+    "meridian": {
+      "name": "Meridian",
+      "lat": 1.396928,
+      "lng": 103.909324
+    },
+    "coral_edge": {
+      "name": "Coral Edge",
+      "lat": 1.393463,
+      "lng": 103.912221
+    },
+    "riviera": {
+      "name": "Riviera",
+      "lat": 1.394622,
+      "lng": 103.916502
+    },
+    "kadaloor": {
+      "name": "Kadaloor",
+      "lat": 1.399309,
+      "lng": 103.916502
+    },
+    "oasis": {
+      "name": "Oasis",
+      "lat": 1.401626,
+      "lng": 103.913702
+    },
+    "damai": {
+      "name": "Damai",
+      "lat": 1.405283,
+      "lng": 103.907801
+    },
+    "sam_kee": {
+      "name": "Sam Kee",
+      "lat": 1.40964097837594,
+      "lng": 103.9048464157778
+    },
+    "teck_lee": {
+      "name": "Teck Lee*",
+      "lat": 1.412789449011679,
+      "lng": 103.9065907138878
+    },
+    "punggol_point": {
+      "name": "Punggol Point*",
+      "lat": 1.416684579311089,
+      "lng": 103.9066468620859
+    },
+    "samudera": {
+      "name": "Samudera*",
+      "lat": 1.415875404628389,
+      "lng": 103.9021391535111
+    },
+    "nibong": {
+      "name": "Nibong",
+      "lat": 1.411852662504627,
+      "lng": 103.900304388319
+    },
+    "sumang": {
+      "name": "Sumang",
+      "lat": 1.40843477637259,
+      "lng": 103.8985427984386
+    },
+    "soo_teck": {
+      "name": "Soo Teck",
+      "lat": 1.405094706918784,
+      "lng": 103.8972211406832
+    },
+    "compassvale": {
+      "name": "Compassvale",
+      "lat": 1.394564,
+      "lng": 103.900156
+    },
+    "rumbia": {
+      "name": "Rumbia",
+      "lat": 1.391094,
+      "lng": 103.906306
+    },
+    "bakau": {
+      "name": "Bakau",
+      "lat": 1.387853,
+      "lng": 103.905267
+    },
+    "kangkar": {
+      "name": "Kangkar",
+      "lat": 1.383739,
+      "lng": 103.902194
+    },
+    "ranggung": {
+      "name": "Ranggung",
+      "lat": 1.383619,
+      "lng": 103.897736
+    },
+    "cheng_lim": {
+      "name": "Cheng Lim",
+      "lat": 1.396276599297334,
+      "lng": 103.8937972041927
+    },
+    "farmway": {
+      "name": "Farmway",
+      "lat": 1.397272,
+      "lng": 103.888953
+    },
+    "kupang": {
+      "name": "Kupang",
+      "lat": 1.398211911219043,
+      "lng": 103.8812560287911
+    },
+    "thanggam": {
+      "name": "Thanggam",
+      "lat": 1.397371,
+      "lng": 103.87542
+    },
+    "fernvale": {
+      "name": "Fernvale",
+      "lat": 1.391935,
+      "lng": 103.876142
+    },
+    "layar": {
+      "name": "Layar",
+      "lat": 1.39218,
+      "lng": 103.879895
+    },
+    "tongkang": {
+      "name": "Tongkang",
+      "lat": 1.389286,
+      "lng": 103.886145
+    },
+    "renjong": {
+      "name": "Renjong",
+      "lat": 1.386614,
+      "lng": 103.890425
+    }
+  },
+  "lines": {
+    "CC": {
+      "name": "Circle Line",
+      "color": "#f90",
+      "route": [
+        "dhoby_ghaut",
+        "bras_basah",
+        "esplanade",
+        "promenade",
+        "nicoll_highway",
+        "stadium",
+        "mountbatten",
+        "dakota",
+        "paya_lebar",
+        "macpherson",
+        "tai_seng",
+        "bartley",
+        "serangoon",
+        "lorong_chuan",
+        "bishan",
+        "marymount",
+        "caldecott",
+        "botanic_gardens",
+        "farrer_road",
+        "holland_village",
+        "buona_vista",
+        "one_north",
+        "kent_ridge",
+        "haw_par_villa",
+        "pasir_panjang",
+        "labrador_park",
+        "telok_blangah",
+        "harbourfront"
+      ]
+    },
+    "CE": {
+      "name": "Circle Line Extension",
+      "color": "#f90",
+      "route": [
+        "promenade",
+        "bayfront",
+        "marina_bay"
+      ]
+    },
+    "DT": {
+      "name": "Downtown Line",
+      "color": "#05a",
+      "route": [
+        "bukit_panjang",
+        "cashew",
+        "hillview",
+        "beauty_world",
+        "king_albert_park",
+        "sixth_avenue",
+        "tan_kah_kee",
+        "botanic_gardens",
+        "stevens",
+        "newton",
+        "little_india",
+        "rochor",
+        "bugis",
+        "promenade",
+        "bayfront",
+        "downtown",
+        "telok_ayer",
+        "chinatown"
+      ]
+    },
+    "EW": {
+      "name": "East West Line",
+      "color": "#093",
+      "route": [
+        "pasir_ris",
+        "tampines",
+        "simei",
+        "tanah_merah",
+        "bedok",
+        "kembangan",
+        "eunos",
+        "paya_lebar",
+        "aljunied",
+        "kallang",
+        "lavender",
+        "bugis",
+        "city_hall",
+        "raffles_place",
+        "tanjong_pagar",
+        "outram_park",
+        "tiong_bahru",
+        "redhill",
+        "queenstown",
+        "commonwealth",
+        "buona_vista",
+        "dover",
+        "clementi",
+        "jurong_east",
+        "chinese_garden",
+        "lakeside",
+        "boon_lay",
+        "pioneer",
+        "joo_koon"
+      ]
+    },
+    "CG": {
+      "name": "East-West Airport Extension",
+      "color": "#093",
+      "route": [
+        "tanah_merah",
+        "expo",
+        "changi_airport"
+      ]
+    },
+    "NS": {
+      "name": "North South Line",
+      "color": "#d22",
+      "route": [
+        "jurong_east",
+        "bukit_batok",
+        "bukit_gombak",
+        "choa_chu_kang",
+        "yew_tee",
+        "kranji",
+        "marsiling",
+        "woodlands",
+        "admiralty",
+        "sembawang",
+        "yishun",
+        "khatib",
+        "yio_chu_kang",
+        "ang_mo_kio",
+        "bishan",
+        "braddell",
+        "toa_payoh",
+        "novena",
+        "newton",
+        "orchard",
+        "somerset",
+        "dhoby_ghaut",
+        "city_hall",
+        "raffles_place",
+        "marina_bay",
+        "marina_south_pier"
+      ]
+    },
+    "NE": {
+      "name": "North East Line",
+      "color": "#81a",
+      "route": [
+        "harbourfront",
+        "outram_park",
+        "chinatown",
+        "clarke_quay",
+        "dhoby_ghaut",
+        "little_india",
+        "farrer_park",
+        "boon_keng",
+        "potong_pasir",
+        "woodleigh",
+        "serangoon",
+        "kovan",
+        "hougang",
+        "buangkok",
+        "sengkang",
+        "punggol"
+      ]
+    },
+    "BP": {
+      "name": "Bukit Panjang LRT Line",
+      "color": "#999",
+      "route": [
+        "choa_chu_kang",
+        "south_view",
+        "keat_hong",
+        "teck_whye",
+        "phoenix",
+        "bukit_panjang",
+        "petir",
+        "pending",
+        "bangkit",
+        "fajar",
+        "segar",
+        "jelapang",
+        "senja",
+        "ten_mile_junction"
+      ]
+    },
+    "PE": {
+      "name": "Punggol LRT Line",
+      "color": "#999",
+      "route": [
+        "punggol",
+        "cove",
+        "meridian",
+        "coral_edge",
+        "riviera",
+        "kadaloor",
+        "oasis",
+        "damai"
+      ]
+    },
+    "PW": {
+      "name": "Punggol West LRT",
+      "color": "#999",
+      "route": [
+        "punggol",
+        "sam_kee",
+        "teck_lee",
+        "punggol_point",
+        "samudera",
+        "nibong",
+        "sumang",
+        "soo_teck"
+      ]
+    },
+    "SE": {
+      "name": "Sengkang LRT Line",
+      "color": "#999",
+      "route": [
+        "sengkang",
+        "compassvale",
+        "rumbia",
+        "bakau",
+        "kangkar",
+        "ranggung"
+      ]
+    },
+    "SW": {
+      "name": "Sengkang West LRT",
+      "color": "#999",
+      "route": [
+        "sengkang",
+        "cheng_lim",
+        "farmway",
+        "kupang",
+        "thanggam",
+        "fernvale",
+        "layar",
+        "tongkang",
+        "renjong"
+      ]
+    }
+  }
+}

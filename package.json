@@ -1,0 +1,22 @@
+{
+  "name": "ui-task",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "priorityqueuejs": "^1.0.0",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-toastify": "^4.4.0",
+    "styled-components": "^4.0.2"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
